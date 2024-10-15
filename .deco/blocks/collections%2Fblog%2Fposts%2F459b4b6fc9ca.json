@@ -1,0 +1,16 @@
+{
+  "name": "collections/blog/posts/459b4b6fc9ca",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      null
+    ],
+    "categories": [],
+    "extraProps": [],
+    "slug": "Hoge",
+    "date": "2024-10-14",
+    "title": "AAA",
+    "excerpt": "HOg",
+    "content": "<p>Hogeeeijof</p><pre><code>console.log();</code></pre><p></p>"
+  }
+}
